@@ -39,18 +39,6 @@ These are really cool tools that I found on the internet which as a student I do
 - [LookerStudio](https://lookerstudio.google.com/) Not a debugging tool but I find cool
 - [ArtificialAnalysis](https://artificialanalysis.ai/) Not a debugging tool but I find cool
 
-## Cool things I find Cool
-
-- [Transpiling to different ML framworks](https://www.ivy.dev/)
-- [LiveBlocks](https://liveblocks.io/)
-- [CodeSandbox](https://codesandbox.io/)
-- [CodePen](https://codepen.io/)
-- [FluidSimPendant](https://www.youtube.com/watch?v=jis1MC5Tm8k)
-- [GenesisAI](https://x.com/EHuanglu/status/1869710532934254954)
-- [LightSpeedComputers](https://www.youtube.com/watch?v=wBqfzj6CEzI)
-- [RagieAi](https://ragie.ai/) Connecting All services to make an op rag
-- [BroswerBase](https://www.browserbase.com/) I think this is a cool idea
-
 ## Database Providers
 
 - [Supabase](https://supabase.io/) Connection limits kinda hit Ive heard if scaling
@@ -72,3 +60,15 @@ This was inspired by theo, he mentions like a localdb is only good for realtime,
 - [Zero]
 - [Legend]
 
+## Cool things I find Cool
+
+- [Transpiling to different ML framworks](https://www.ivy.dev/)
+- [LiveBlocks](https://liveblocks.io/)
+- [CodeSandbox](https://codesandbox.io/)
+- [CodePen](https://codepen.io/)
+- [FluidSimPendant](https://www.youtube.com/watch?v=jis1MC5Tm8k)
+- [GenesisAI](https://x.com/EHuanglu/status/1869710532934254954)
+- [LightSpeedComputers](https://www.youtube.com/watch?v=wBqfzj6CEzI)
+- [RagieAi](https://ragie.ai/) Connecting All services to make an op rag
+- [BroswerBase](https://www.browserbase.com/) I think this is a cool idea
+- [BlackSmith](https://www.blacksmith.sh/) So dedicated to performance and basically out performing github actions
