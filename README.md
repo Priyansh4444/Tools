@@ -42,6 +42,7 @@ These are really cool tools that I found on the internet which as a student I do
 ## Cool things I find Cool
 
 - [Transpiling to different ML framworks](https://www.ivy.dev/)
+- [LiveBlocks](https://liveblocks.io/)
 - [CodeSandbox](https://codesandbox.io/)
 - [CodePen](https://codepen.io/)
 - [FluidSimPendant](https://www.youtube.com/watch?v=jis1MC5Tm8k)
@@ -49,3 +50,25 @@ These are really cool tools that I found on the internet which as a student I do
 - [LightSpeedComputers](https://www.youtube.com/watch?v=wBqfzj6CEzI)
 - [RagieAi](https://ragie.ai/) Connecting All services to make an op rag
 - [BroswerBase](https://www.browserbase.com/) I think this is a cool idea
+
+## Database Providers
+
+- [Supabase](https://supabase.io/) Connection limits kinda hit Ive heard if scaling
+- [Upstash](https://upstash.com/)
+- [Vercel](https://vercel.com/docs/storage) (its just neon)
+- [Firebase](https://firebase.google.com/) Though highly discourage this one
+- [Turso](https://turso.tech/) Though kinda unreliable supposedly with stories about dropping random tables I think
+- [PlanetScale](https://planetscale.com/) They use Vitess to scale which is powerful af, partially github and youtube are powered!! 30$ does T3 CHAt
+- [Prisma](https://www.prisma.io/) Yes they have a database service too
+- [SingleStore](https://www.singlestore.com/) really good as well (works w drizzle, id say next to planetscale)
+- [Neon](https://neondb.tech/) PlanetScale is the best scalable for sql but the rest are kinda solid for db you wanna use
+
+## LocalDB Sync ServerDB
+
+This was inspired by theo, he mentions like a localdb is only good for realtime, collaboration and Local first, whihc NOT ALL APPS NEED TO BE!!! But if you are crazy about tech like me here u go :3
+
+- [Dexie]
+- [Jazz]
+- [Zero]
+- [Legend]
+
