@@ -7,7 +7,10 @@ These are really cool tools that I found on the internet which as a student I do
 
 - [Table of Contents](#table-of-contents)
 - [Hosting](#hosting)
+- [Free AI APIs](#free-ai-apis)
 - [Cool UI libraries](#cool-ui-libraries)
+- [Debugging tools](#debugging-tools)
+- [Database Providers](#database-providers)
 
 ## Hosting
 
