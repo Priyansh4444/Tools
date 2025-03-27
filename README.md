@@ -36,6 +36,7 @@ These are really cool tools that I found on the internet which as a student I do
 
 - [ReactScan](https://react-scan.com/)
 - [Jam](https://jam.dev/)
+- [Polypane](https://polypane.app/)
 - [LookerStudio](https://lookerstudio.google.com/) Not a debugging tool but I find cool
 - [ArtificialAnalysis](https://artificialanalysis.ai/) Not a debugging tool but I find cool
 
