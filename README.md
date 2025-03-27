@@ -22,6 +22,12 @@ These are really cool tools that I found on the internet which as a student I do
 - [Fly.io](https://fly.io)
 - [Cloudflare Pages](https://pages.cloudflare.com/) also I think for static pages
 
+## Free AI APIs
+
+- [Groq](https://groq.com/)
+- [Gemini](https://aistudio.google.com)
+- [Hyperbolic](https://hyperbolic.xyz/)
+
 ## Cool UI libraries
 
 - [ShadCN](https://ui.shadcn.com/)
