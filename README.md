@@ -31,6 +31,13 @@ These are really cool tools that I found on the internet which as a student I do
 - [Gemini](https://aistudio.google.com)
 - [Hyperbolic](https://hyperbolic.xyz/)
 
+## Frontend AI
+
+- [Loveable](https://lovable.dev/)
+- [v0](https://www.v0.dev/)
+- [codebuff](https://codebuff.com/)
+- [Trae](https://trae.ai)
+
 ## Cool UI libraries
 
 - [ShadCN](https://ui.shadcn.com/)
