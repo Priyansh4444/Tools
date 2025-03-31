@@ -37,6 +37,7 @@ These are really cool tools that I found on the internet which as a student I do
 - [v0](https://www.v0.dev/)
 - [codebuff](https://codebuff.com/)
 - [Trae](https://trae.ai)
+- [Same](https://same.dev)
 
 ## Cool UI libraries
 
