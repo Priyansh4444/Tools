@@ -48,6 +48,7 @@ These are really cool tools that I found on the internet which as a student I do
 - [MagicUI](https://magicui.design/)
 - [FancyComponents](https://www.fancycomponents.dev/)
 - [OlivierLarose](https://blog.olivierlarose.com/)
+- [Animejs](https://animejs.com/) I think this is a REALLY cool library for animations
 
 ## Debugging tools
 
