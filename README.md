@@ -38,6 +38,7 @@ These are really cool tools that I found on the internet which as a student I do
 - [codebuff](https://codebuff.com/)
 - [Trae](https://trae.ai)
 - [Same](https://same.dev)
+- [Firebase Studio](https://firebase.studio/)
 
 ## Cool UI libraries
 
