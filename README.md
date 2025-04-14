@@ -30,6 +30,7 @@ These are really cool tools that I found on the internet which as a student I do
 - [Groq](https://groq.com/)
 - [Gemini](https://aistudio.google.com)
 - [Hyperbolic](https://hyperbolic.xyz/)
+- [OpenRouter](https://openrouter.ai/)
 
 ## Frontend AI
 
