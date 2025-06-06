@@ -89,6 +89,8 @@ This was inspired by theo, he mentions like a localdb is only good for realtime,
 - [Transpiling to different ML framworks](https://www.ivy.dev/)
 - [LiveBlocks](https://liveblocks.io/)
 - [CodeSandbox](https://codesandbox.io/)
+- [PowerToys](https://learn.microsoft.com/en-us/windows/powertoys/)
+- [FilePilot](https://filepilot.tech)
 - [CodePen](https://codepen.io/)
 - [FluidSimPendant](https://www.youtube.com/watch?v=jis1MC5Tm8k)
 - [GenesisAI](https://x.com/EHuanglu/status/1869710532934254954)
