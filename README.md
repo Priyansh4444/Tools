@@ -52,6 +52,7 @@ These are really cool tools that I found on the internet which as a student I do
 - [OlivierLarose](https://blog.olivierlarose.com/)
 - [OriginUI](https://originui.com/)
 - [21st Dev](https://21st.dev/)
+- [animate-ui](https://animate-ui.com/docs/ui-elements/playful-todolist)
 - [Animejs](https://animejs.com/) I think this is a REALLY cool library for animations
 - [BaseCoatUI](https://basecoatui.com/) Shadcn without react
 
