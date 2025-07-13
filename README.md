@@ -44,6 +44,7 @@ These are really cool tools that I found on the internet which as a student I do
 ## Cool UI libraries
 
 - [ShadCN](https://ui.shadcn.com/)
+    - [TweakCN](https://tweakcn.com/)
 - [TailwindCSS](https://tailwindcss.com/)
 - [ReactBits](https://www.reactbits.dev/)
 - [Aceternity](https://ui.aceternity.com/)
@@ -55,6 +56,10 @@ These are really cool tools that I found on the internet which as a student I do
 - [animate-ui](https://animate-ui.com/docs/ui-elements/playful-todolist)
 - [Animejs](https://animejs.com/) I think this is a REALLY cool library for animations
 - [BaseCoatUI](https://basecoatui.com/) Shadcn without react
+- [MVPBlocks](https://blocks.mvp-subha.me/) This one is still a bit sketchy
+- [SHSF UI](https://www.shsfui.com/) again not too sure
+- [Kibo-ui](https://www.kibo-ui.com/) Nice for quick starting AI apps
+- [skiper/ui](https://skiper-ui.com/) They have some cool components which i like
 
 ## Debugging tools
 
